@@ -4,14 +4,9 @@
 
 ---
 
-### 🦀 Core Ecosystem
-
-| Repository | Tech Stack | Role |
-| :--- | :--- | :--- |
-| [**mudcrab**](https://github.com/Mudcrab-Team/mudcrab) | Rust / Bevy | Core runtime engine, asset conversion pipeline, and modern renderer |
-| [**mudcrab-knowledge-graph**](https://github.com/Mudcrab-Team/mudcrab-knowledge-graph) | Rust / SQLite | Reverse engineering knowledge graph, data contracts, and format specs |
-| [**mudcrab-website**](https://github.com/Mudcrab-Team/mudcrab-website) | Svelte / TypeScript | Official project landing portal, component library, and documentation |
-| [**TES5Edit**](https://github.com/Mudcrab-Team/TES5Edit) | Pascal / Delphi | Tooling fork for plugin inspection, records analysis, and validation |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mudcrab-Team/.github/main/profile/metrics.svg" alt="Mudcrab Team Metrics" width="100%">
+</div>
 
 ---
 
